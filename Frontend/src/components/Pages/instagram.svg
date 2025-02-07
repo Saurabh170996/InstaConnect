@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.2586564470214 67.4143229717165" width="331.2586564470214" height="67.4143229717165">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <!-- Define the image as a pattern -->
+    <pattern id="background-pattern" patternUnits="userSpaceOnUse" width="331.2586564470214" height="67.4143229717165">
+      <image href="your-image.png" x="0" y="0" width="331.2586564470214" height="67.4143229717165"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background with PNG pattern -->
+  <rect x="0" y="0" width="331.2586564470214" height="67.4143229717165" fill="url(#background-pattern)"></rect>
+
+  <!-- Text with bold style -->
+  <g stroke-opacity="0.9" fill-opacity="0.9" transform="translate(10 10) rotate(0 155.6293282235107 23.70716148585825)">
+    <text x="155.62932822351067" y="38.19945237677842" font-family="Trebuchet MS" font-size="41.22984606236203px" font-weight="bold" fill="#c2255c" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">InstaConnect
+    </text>
+  </g>
+</svg>
